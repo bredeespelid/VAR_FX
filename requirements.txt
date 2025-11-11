@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+jupyter
+notebook
+ipython
+
+# Optional (uncomment if needed):
+# scikit-learn
+# openpyxl
