@@ -7,6 +7,7 @@ seaborn
 jupyter
 notebook
 ipython
+joblib
 
 # Optional (uncomment if needed):
 # scikit-learn
